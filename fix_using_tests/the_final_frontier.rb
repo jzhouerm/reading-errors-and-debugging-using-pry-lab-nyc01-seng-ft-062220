@@ -20,4 +20,7 @@ def engage
   binding.pry
 end
 
-engage
+def engage
+  "Captain's Log, star date"
+end
+
