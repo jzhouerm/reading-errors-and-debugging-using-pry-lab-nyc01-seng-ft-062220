@@ -21,6 +21,6 @@ def engage
 end
 
 def engage
-  "Captain's Log, star date"
+  puts "Captain's Log, star date"
 end
 
